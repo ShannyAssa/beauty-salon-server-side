@@ -1,0 +1,9 @@
+# .gitignore in the server folder
+
+# Ignore configuration files
+# config.js
+
+# Ignore node_modules (where dependencies are installed)
+node_modules/
+
+# Other patterns can be added below
